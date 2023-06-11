@@ -1,4 +1,4 @@
-# SaaS
+# Application
 
 Your description goes here.
 
@@ -22,15 +22,12 @@ Describe how to deploy your application.
 
 This project use a lot of third party packages to help us build more easily and more securely the application.
 
-- [laravel/jetstream](https://jetstream.laravel.com/3.x/introduction.html)
 - [laravel/dusk](https://laravel.com/docs/10.x/dusk)
 - [laravel/horizon](https://laravel.com/docs/10.x/horizon)
 - [laravel/pennant](https://laravel.com/docs/10.x/pennant)
 - [laravel/pint](https://laravel.com/docs/10.x/pint)
 - [laravel/sanctum](https://laravel.com/docs/10.x/sanctum)
-- [laravel/socialite](https://laravel.com/docs/10.x/socialite)
 - [laravel/telescope](https://laravel.com/docs/10.x/telescope)
-- [joelbutcher/socialstream](https://github.com/joelbutcher/socialstream)
 - [pestphp/pest](https://github.com/pestphp/pest)
 - [nunomaduro/larastan](https://github.com/nunomaduro/larastan)
 - [nunomaduro/patrol](https://github.com/nunomaduro/patrol)
@@ -76,7 +73,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Security Vulnerabilities
 
-Please review [our security policy](https://gitlab.com/ayctor/outils-cse/outils-cse-app/-/blob/master/SECURITY.md) on how to report security vulnerabilities.
+Please review [our security policy](SECURITY.md) on how to report security vulnerabilities.
 
 ## Contributions
 
