@@ -44,9 +44,5 @@
                 </x-button>
             </div>
         </form>
-
-        @if (JoelButcher\Socialstream\Socialstream::show())
-            <x-socialstream />
-        @endif
     </x-authentication-card>
 </x-guest-layout>
